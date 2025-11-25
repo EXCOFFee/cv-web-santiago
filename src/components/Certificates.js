@@ -130,7 +130,7 @@ const CERTIFICATES_DATA = {
         description: 'Curso integral de JavaScript moderno cubriendo desde fundamentos hasta conceptos avanzados.',
         verified: true,
         color: '#F7DF1E',
-        certificate_url: '/CertificadoJavaScript.png',
+        certificate_url: process.env.PUBLIC_URL + '/CertificadoJavaScript.png',
         hasImage: true
       }
     ]

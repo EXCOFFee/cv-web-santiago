@@ -102,7 +102,7 @@ const ABOUT_ANIMATIONS = {
 const PERSONAL_STATS = [
   { 
     icon: () => (
-      <img src="/davinci.jpg" alt="Escuela Da Vinci" className="w-6 h-6 rounded-full inline-block align-middle" />
+      <img src={process.env.PUBLIC_URL + "/davinci.jpg"} alt="Escuela Da Vinci" className="w-6 h-6 rounded-full inline-block align-middle" />
     ),
     value: personalData.graduationYear, 
     label: 'Graduación esperada',
@@ -148,7 +148,7 @@ const EXPERIENCE_TIMELINE = [
     period: '2023 - 2025',
     type: 'educacion',
     icon: () => (
-      <img src="/davinci.jpg" alt="Escuela Da Vinci" className="w-6 h-6 rounded-full inline-block align-middle" />
+      <img src={process.env.PUBLIC_URL + "/davinci.jpg"} alt="Escuela Da Vinci" className="w-6 h-6 rounded-full inline-block align-middle" />
     ),
     description: 'Carrera de Análisis de Sistemas con enfoque en desarrollo web y software. Graduado en diciembre 2025.',
     achievements: ['Análisis de Sistemas', 'Desarrollo de Software', 'Bases de Datos', 'Arquitectura de Software']
@@ -439,7 +439,7 @@ const About = () => {
                 {/* Imagen de comprobante de plan de estudio y promedio */}
                 <div className="flex flex-col items-center my-4">
                   <img
-                    src="/promedio.png"
+                    src={process.env.PUBLIC_URL + "/promedio.png"}
                     alt="Comprobante de inscripción y promedio Escuela Da Vinci"
                     className="rounded-lg shadow-lg max-w-xs border border-dark-border"
                   />
