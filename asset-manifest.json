@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/cv-web-santiago/static/css/main.b8e9a1be.css",
-    "main.js": "/cv-web-santiago/static/js/main.3a7a17dc.js",
+    "main.js": "/cv-web-santiago/static/js/main.f7088672.js",
     "static/js/569.e82ca1ba.chunk.js": "/cv-web-santiago/static/js/569.e82ca1ba.chunk.js",
     "static/js/699.ebad4b41.chunk.js": "/cv-web-santiago/static/js/699.ebad4b41.chunk.js",
     "static/js/539.9a80c67b.chunk.js": "/cv-web-santiago/static/js/539.9a80c67b.chunk.js",
-    "static/js/585.f781831e.chunk.js": "/cv-web-santiago/static/js/585.f781831e.chunk.js",
+    "static/js/93.10040610.chunk.js": "/cv-web-santiago/static/js/93.10040610.chunk.js",
     "static/js/57.abe67a13.chunk.js": "/cv-web-santiago/static/js/57.abe67a13.chunk.js",
     "static/js/784.909e2c1d.chunk.js": "/cv-web-santiago/static/js/784.909e2c1d.chunk.js",
     "static/js/149.d9f399a6.chunk.js": "/cv-web-santiago/static/js/149.d9f399a6.chunk.js",
     "static/js/860.dd8b8f37.chunk.js": "/cv-web-santiago/static/js/860.dd8b8f37.chunk.js",
-    "static/media/certificado-javascript.png": "/cv-web-santiago/static/media/certificado-javascript.3f420f87a3b5d268707d.png",
+    "static/media/cert-js.png": "/cv-web-santiago/static/media/cert-js.3f420f87a3b5d268707d.png",
     "index.html": "/cv-web-santiago/index.html",
     "main.b8e9a1be.css.map": "/cv-web-santiago/static/css/main.b8e9a1be.css.map",
-    "main.3a7a17dc.js.map": "/cv-web-santiago/static/js/main.3a7a17dc.js.map",
+    "main.f7088672.js.map": "/cv-web-santiago/static/js/main.f7088672.js.map",
     "569.e82ca1ba.chunk.js.map": "/cv-web-santiago/static/js/569.e82ca1ba.chunk.js.map",
     "699.ebad4b41.chunk.js.map": "/cv-web-santiago/static/js/699.ebad4b41.chunk.js.map",
     "539.9a80c67b.chunk.js.map": "/cv-web-santiago/static/js/539.9a80c67b.chunk.js.map",
-    "585.f781831e.chunk.js.map": "/cv-web-santiago/static/js/585.f781831e.chunk.js.map",
+    "93.10040610.chunk.js.map": "/cv-web-santiago/static/js/93.10040610.chunk.js.map",
     "57.abe67a13.chunk.js.map": "/cv-web-santiago/static/js/57.abe67a13.chunk.js.map",
     "784.909e2c1d.chunk.js.map": "/cv-web-santiago/static/js/784.909e2c1d.chunk.js.map",
     "149.d9f399a6.chunk.js.map": "/cv-web-santiago/static/js/149.d9f399a6.chunk.js.map",
@@ -25,6 +25,6 @@
   },
   "entrypoints": [
     "static/css/main.b8e9a1be.css",
-    "static/js/main.3a7a17dc.js"
+    "static/js/main.f7088672.js"
   ]
 }
